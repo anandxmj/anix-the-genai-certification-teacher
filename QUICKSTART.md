@@ -4,16 +4,16 @@
 
 1. **Download knowledge files**
    ```bash
-   ./scripts/download-knowledge.sh
+   ./scripts/download-genai-developer-pro-knowledge.sh
    ```
    This downloads the required files to the `knowledge-files/` directory.
 
-3. **Start the teacher agent**
+2. **Start the teacher agent**
    ```bash
    kiro-cli chat --agent anix-genai-teacher
    ```
 
-4. **Add knowledge** (optional)
+3. **Add knowledge**
    ```
    /knowledge add -n aws-certified-generative-ai-developer-professional-exam-guide -p knowledge-files/exam-guide.pdf --index-type Best
 

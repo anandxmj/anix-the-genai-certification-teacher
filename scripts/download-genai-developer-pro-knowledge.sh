@@ -1,5 +1,7 @@
 #!/bin/sh
 
+mkdir -p knowledge-files
+
 echo "Downloading Exam Guide: AWS Certified Generative AI Developer Professional ... "
 
 wget -O knowledge-files/exam-guide.pdf  https://docs.aws.amazon.com/pdfs/aws-certification/latest/examguides/aws-certification-exam-guides.pdf#ai-professional-01 --no-check-certificate

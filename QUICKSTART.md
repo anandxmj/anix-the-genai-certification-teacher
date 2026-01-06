@@ -26,7 +26,9 @@ Prerequisits:
 
    /knowledge add -n aws-well-architected-framework-generative-ai-lense -p knowledge-files/genai-lense.pdf --index-type Best
    ```
-
+5. (OPTIONAL) ** Supply more knowledge **
+   - You can make this agent better by supplying more knowledge as part of Step 4. Possibly adding text files of pre-existing questions etc
+  
 ## Usage
 
 Once setup is complete, you can:

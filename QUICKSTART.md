@@ -28,4 +28,31 @@ Once setup is complete, you can:
 - Get explanations tailored to your experience level
 - Review exam domains and best practices
 
-Example: "Generate a 10-question intermediate quiz on Fundamentals of Generative AI"
+### Examples
+Learning & Teaching:
+- "Explain prompt engineering techniques for Amazon Bedrock"
+- "How does RAG architecture work with vector databases?"
+- "What are the security best practices for GenAI applications?"
+- "Walk me through the Amazon Bedrock model evaluation process"
+
+Quiz Generation:
+- "Generate 10 intermediate questions on Domain 3 (Security and Governance)"
+- "Create 5 advanced multiple response questions covering all domains"
+- "Give me a 20-question beginner quiz focusing on fundamentals"
+- "Make an expert-level ordering question about model deployment"
+
+Study Planning:
+- "I'm weak in optimization and monitoring - help me study"
+- "Create a 2-week study plan for the exam"
+- "What hands-on labs should I practice for Domain 2?"
+- "I scored 65% on practice tests - what should I focus on?"
+
+Specific Topics:
+- "Compare Amazon Bedrock vs SageMaker for GenAI deployment"
+- "How do I implement responsible AI practices?"
+- "What are the cost optimization strategies for foundation models?"
+- "Explain agentic AI system architecture patterns"
+
+Assessment:
+- "Score my practice test results and give feedback"
+- "What are my knowledge gaps based on this quiz performance?"

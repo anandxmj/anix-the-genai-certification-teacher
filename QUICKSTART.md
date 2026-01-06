@@ -1,4 +1,6 @@
 # Quick Start Guide
+Prerequisits:
+- Install and Configure KIRO CLI. Follow https://kiro.dev/docs/cli/installation/
 
 ## Setup
 
@@ -12,8 +14,13 @@
    ```bash
    kiro-cli chat --agent anix-genai-teacher
    ```
-
-3. **Add knowledge**
+   
+3. **Enable "Knowledge" experimental feature of KIRO CLI**
+   ```bash
+   Use /experiment command at the KIRO CLI Prompt and toggle "Knowledge" to ON
+   ```
+   
+4. **Add knowledge**
    ```
    /knowledge add -n aws-certified-generative-ai-developer-professional-exam-guide -p knowledge-files/exam-guide.pdf --index-type Best
 

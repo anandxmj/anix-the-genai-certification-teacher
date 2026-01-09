@@ -25,6 +25,8 @@ Prerequisits:
    /knowledge add -n aws-certified-generative-ai-developer-professional-exam-guide -p knowledge-files/exam-guide.pdf --index-type Best
 
    /knowledge add -n aws-well-architected-framework-generative-ai-lense -p knowledge-files/genai-lense.pdf --index-type Best
+
+   /knowledge add -n aws-well-architected-framework-responsible-ai-lense -p knowledge-files/responsible-ai-lense.pdf --index-type Best
    ```
 5. (OPTIONAL) ** Supply more knowledge **
    - You can make this agent better by supplying more knowledge as part of Step 4. Possibly adding text files of pre-existing questions etc

@@ -9,7 +9,10 @@
   "toolAliases": {},
   "allowedTools": [],
   "resources": [
-    "file://README.md"
+    "file://README.md",
+    "knowledge://aws-well-architected-framework-responsible-ai-lense",
+    "knowledge://aws-well-architected-framework-generative-ai-lense",
+    "knowledge://aws-certified-generative-ai-developer-professional-exam-guide"
   ],
   "hooks": {},
   "toolsSettings": {},
